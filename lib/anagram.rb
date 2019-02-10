@@ -7,6 +7,7 @@ class Anagram
   def match (array)
     
     
+    
 end 
   #take a word on initialization 
   #instances should respond to match method 
