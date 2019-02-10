@@ -1,6 +1,9 @@
 # Your code goes here!
 class Anagram 
   attr_accessor :word 
+  def initialize(word)
+    @word=word 
+  end 
   #take a word on initialization 
   #instances should respond to match method 
   #match method takes an array of possible anagrams
