@@ -4,6 +4,7 @@ class Anagram
   def initialize(word)
     @word=word 
   end 
+  def 
   #take a word on initialization 
   #instances should respond to match method 
   #match method takes an array of possible anagrams
