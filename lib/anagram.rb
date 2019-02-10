@@ -5,6 +5,7 @@ class Anagram
     @word=word 
   end 
   def match 
+    
 end 
   #take a word on initialization 
   #instances should respond to match method 
